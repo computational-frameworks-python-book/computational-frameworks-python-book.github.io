@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+Welcome to our book site. To learn more about the book check out the [About](/about/) page.

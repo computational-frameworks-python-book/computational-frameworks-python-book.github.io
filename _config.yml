@@ -14,12 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Computational Frameworks for Political and Social Research with Python
-description: >- # this means to ignore newlines until "baseurl:"
-    Website to accompany "Computational Frameworks for Political
-    and Social Research with Python" by Josh Cutler and Matt Dickenson.
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  computational-frameworks-python-book
 
 # Build settings
 markdown: kramdown
