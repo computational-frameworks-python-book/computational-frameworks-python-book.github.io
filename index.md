@@ -7,4 +7,4 @@ layout: home
 
 Welcome to our book site. To learn more about the book check out the [About](/about/) page. You can pre-order the book from [Springer](https://www.springer.com/gp/book/9783030368258) or [Amazon](https://amzn.to/38aIuA2).
 
-<img align="center" style="display: block;margin: 0 auto;" src="/assets/cover.jpg">
+<img align="center" style="display: block;margin: 0 auto;height:250px;width:auto;" src="/assets/cover.tiff">
